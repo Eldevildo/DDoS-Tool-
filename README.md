@@ -4,12 +4,7 @@
        Program is called Tsunami cool name for a DDoS program Dont use it for "malicious use" Please. ANYWAYS ENJOY.
          
                                             
-     ![This is an image](https://myoctocat.com/assets/images/base-octocat.svg)
-     
-     
-     /assets/images/electrocat.png
-     
-                                                                    
+                          
 
                                                
                        
